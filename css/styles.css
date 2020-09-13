@@ -47,15 +47,18 @@ hr{
 }
 
 .middle-container {
-
+    margin: 100px 0;
 }
 
 .skill-row{
-    
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
 }
 
 .bottom-container {
-
+    background-color: #66bfbf;
+    padding: 100px 0 50px;
 }
 
 .top-cloud {
