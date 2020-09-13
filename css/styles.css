@@ -91,4 +91,19 @@ hr{
     margin-left: 30px;
 }
 
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75em;
+    padding: 20px 0;
+}
 
